@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.1",
-  "homepage": "https://nayruthCalla.github.io/react-nice-resume",
+  "homepage": "http://nayruthCalla.github.io/react-nice-resume",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
