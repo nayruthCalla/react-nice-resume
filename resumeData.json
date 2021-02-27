@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name":"Nayruth Calla",
+    "description":"Antes de estar en Lima, crecí en la hermosa ciudad de Puerto Maldonado y en busca de mejores oportunidades. Como ves, el cambio es parte de mí y yo soy parte del cambio. Y hoy, como Developer Code, pondré a tu disposición mi creatividad y mis diversos conocimientos tech para contribuir con la exitosa transformación digital de tu marca y de tu empresa… ¿Comenzamos?",
+    "image":"nay.jpg",
+    "bio":"Antes de estar en Lima, crecí en la hermosa ciudad de Puerto Maldonado y en busca de mejores oportunidades fue como llegué aquí. Como ves, el cambio es parte de mí y yo soy parte del cambio. Y hoy, como Developer Code, pondré a tu disposición mi creatividad y mis diversos conocimientos tech para contribuir con la exitosa transformación digital de tu marca y de tu empresa… ¿Comenzamos?",
+    "contactmessage":"¡Gracias por haber llegado hasta aquí! Si te gustó lo que viste, me encantaría ser parte de tu equipo de trabajo. Contáctame.",
+    "email": "nayruth.calla@gmail.com",
+    "phone": "+51-910-871-978",
+    "github":"https://github.com/nayruthCalla",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"/NayruthCalla-CV.pdf",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/CallaNayruth",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nayruth-calla/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nayruthCalla",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Laboratoria - Lima",
+        "degree":"Front-end Developer",
+        "graduated":"Agosto 2019",
+        "description":"Formé parte de un bootcamp intensivo de 6 meses que simula un entorno laboral a través de la metodología ágil Scrum y Kanban. El auto-aprendizaje es la principal herramienta que nos ayuda a desarrollar los proyectos para solucionar problemas reales; trabajamos en equipo y en colaboración, potenciando nuestras habilidades blandas y utilizando herramientas para desarrollo web como: HTML5, CSS3, Javascript (ES6), Firebase, React, Mongo DB, Docker, Graphql."
+      },
+      {
+        "school":"UNAMAD - Perú",
+        "degree":"Bachiller en Inegniería de Sistemas e Infomática",
+        "graduated":"Diciembre 2018",
+        "description":"Fuí estudiante de la carrera de Ingenieria de Sistemas por 5 años, donde aprendí las bases computacionales, desarrollo de software, hardware."
+      }
+    ],
+    "work":[
+      {
+        "company":"ACCENTURE PERÚ",
+        "title":"App. Development Associate",
+        "years":"Septiembre 2019 - Sept 2020",
+        "description":"Formé parte del equipo de desarrollo en la Aseguradora Pacífico Seguros, donde equipos de diferentes firmas me reconocieron como Agente de Cambio en el equipo Tradicional. Ingresé a Accenture como New Associate pero gracias a mi de desempeño y compromiso subí de nivel en tiempo récord, participé en el desarrollo, testing, y despliegue a producción de los requerimientos obtenidos del cliente. "
+      },
+      {
+        "company":"ARCHIVO REGIONAL DE MDD",
+        "title":"Asistente infomático",
+        "years":"Feb 2018 - jul 2018",
+        "description":"Digitación y digitalización de documentos: escrituras públicas, protestos.  Desarrollo de prototipo de software con JAVA."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Html",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"Git/github",
+        "level":"70%"
+      },
+      {
+        "name":"React",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Burger Queen",
+        "category":"API-REST con Nodejs y Graphql",
+        "image":"burguer.png",
+        "url":"https://github.com/nayruthCalla/LIM009-FE-burger-queen-api"
+      },
+      {
+        "title":"MD-links",
+        "category":"Libreria hecha con NodeJS",
+        "image":"md-link.png",
+        "url":"https://www.npmjs.com/package/md-links003"
+      },
+      {
+        "title":"Red social Bésame mucho",
+        "category":"Una red social hecha con Javascrip vanilla",
+        "image":"redSoc.png",
+        "url":"https://github.com/nayruthCalla/LIM009-Social-Network"
+      },
+     
+      {
+        "title":"Cinemus",
+        "category":"Web site hecha en una hackaton de 24h",
+        "image":"hackatonPeli.png",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Pokepedia",
+        "category":"Información de pokemones hecha con javascript vanilla",
+        "image":"datalover.png",
+        "url":"https://github.com/nayruthCalla/LIM009-data-lovers"
+      }
+    ]
+  }
+}
